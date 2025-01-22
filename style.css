@@ -1,0 +1,199 @@
+body{
+    width: 1200px;
+    font-family: "PT Sans Narrow", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    margin-left: 653px;
+}
+
+.page-header{
+    width: 1200px;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.main-nav {
+    display: flex;
+    margin: 0px 140px 6px 149px;
+    padding: 0;
+    background-color: black;
+}
+
+.site-navigation {
+    display: flex;
+    flex-basis: auto;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 958px;
+    list-style: none;
+    margin: 0 315px 0 0;
+    padding: 0;
+    background-color: black;
+}
+
+.site-navigation-item a{
+    font-family: "PT Sans Narrow", sans-serif;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23.29px;
+}
+
+.login{
+    font-family: "PT Sans Narrow", sans-serif;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23.29px;
+    margin-left: 19px;
+}
+
+.login-icon{
+    display: flex;
+    align-items: center;
+}
+
+.main{
+    border-bottom: 3px #826550 solid;
+    padding-bottom: 21px;
+    background-color: black;
+}
+
+
+
+
+.logo-img{
+    margin: 57px 415px 242px 415px;
+}
+
+.logo-back{
+    background-image: url("https://github.com/fantazychan/hw15/blob/main/img/back-desktop.png?raw=true");
+    background-position: center;
+    height: 648px;
+    width: 1200px;
+}
+
+.vigoda{
+    margin: 0px auto 0px 88px;
+}
+
+.back-2{
+    background-image: url("https://github.com/fantazychan/hw15/blob/main/img/grey%20background.png?raw=true");
+    background-position: center;
+    height: 629px;
+    width: 1200px;
+}
+
+.frame-2{
+    margin: 208px 120px 0px 120px;
+}
+
+.bottom {
+    background-image: url("https://github.com/fantazychan/hw15/blob/main/img/grey%20background.png?raw=true");
+}
+
+
+
+.news{
+    background-color: #F8F5F2;
+    border-bottom: 1px solid #E5DDD5;
+    padding: 0 0 39px 0;
+}
+
+.rev {
+    background-color: #F8F5F2;
+}
+
+.news-icon{
+    margin: 54px 120px 0 120px;
+}
+
+
+.reviews {
+    margin: 37px 120px 46px 120px;
+}
+
+.foot {
+    background-image: url("https://github.com/fantazychan/hw15/blob/main/img/background.png?raw=true");
+    width: 1200px;
+    background-color: #292929;
+    padding-top: 51px;
+    padding-bottom: 55px;
+    margin: 0;
+    font-family: "PT Sans Narrow", sans-serif;
+    display: flex;
+}
+
+.adress {
+    width: 318px;
+    height: 93px;
+    margin-left: 120px;
+}
+
+.barber {
+    font-family: "PT Sans Narrow", sans-serif;
+    font-size: 18px;
+    line-height: 23.29px;
+    color: #FFFFFF;
+    font-weight: 700;
+    margin-top: 0;
+}
+
+.spb {
+    font-family: "PT Sans Narrow", sans-serif;
+    font-size: 18px;
+    line-height: 23.29px;
+    color: #FFFFFF;
+    font-weight: 400;
+    margin: 18px 0 0 0;
+}
+
+.number {
+    font-family: "PT Sans Narrow", sans-serif;
+    font-size: 18px;
+    line-height: 23.29px;
+    color: #FFFFFF;
+    font-weight: 400;
+    margin: 0 0 55px 0;
+}
+
+.friends {
+    font-family: "PT Sans Narrow", sans-serif;
+    font-size: 18px;
+    line-height: 23.29px;
+    color: #FFFFFF;
+    font-weight: 400;
+    margin-left: 108px;
+    margin-bottom: 13px;
+    margin-top: 0;
+}
+
+.social {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.soc-flex{
+    margin-left: 90px;
+}
+
+.vk-icon {
+    border: 1px solid #4A4A4A;
+    padding: 16px 17px 17px 18px;
+}
+
+.fb-icon {
+    border: 1px solid #4A4A4A;
+    padding: 15px 20px 14px 20px;
+}
+
+.in-icon{
+    border: 1px solid #4A4A4A;
+    padding: 15px 15px 16px 16px;
+}
